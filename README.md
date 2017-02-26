@@ -1,6 +1,5 @@
 # enforce_types.py
 
-*__enforce_types__* is a Python 3.5+ library for type validation through annotated functions. It uses the standard type hinting syntax (defined in PEP 484).
 
 ### Features
 
