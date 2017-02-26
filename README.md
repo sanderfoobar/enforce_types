@@ -26,7 +26,7 @@ TypeError: function foo argument 'bar' must be of type 'str'
 ```
 
 #### Monkey patch all annotated functions
-Recursively search for all type hinted annotated functions declared _within the scope of the current project_ and monkey patch them so that they enforce types.
+Recursively search for all annotated functions declared _within the scope of the current project_ and monkey patch them so that they enforce types.
 
 ```python
 >>> import foo
